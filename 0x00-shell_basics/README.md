@@ -26,3 +26,5 @@ Task 12.
 script that print the type of the file.
 Task 13. 
 How to create a symbolic link.
+Task 14. 
+script that copies all the HTML files from the current working directory to the parent of the working directory.

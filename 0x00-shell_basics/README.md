@@ -34,3 +34,5 @@ Task 16.
  script that deletes all files in the current working directory that end with the character ~.
 Task 17.
 script that create multiple directories in a single command.
+Task 18.
+write a command that lists all the files and directories of the current directory, separated by commas.

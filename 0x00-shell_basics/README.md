@@ -24,3 +24,5 @@ Task 11.
 script that lists all files in the current directory and the parent of the working directory and the /boot directory in long format.
 Task 12.
 script that print the type of the file.
+Task 13. 
+How to create a symbolic link.

@@ -13,6 +13,8 @@ Display current directory contents. same as the task 4.
 Task 6. 
 How to create a dir.ectory
 Task 7.
-how to move a file.
+How to move a file.
 Task 8.
-how to remove a file.
+How to remove a file.
+Task 9.
+How to remove a directory.

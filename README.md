@@ -1,1 +1,1 @@
-0x00-shell_project
+0x00-shell project

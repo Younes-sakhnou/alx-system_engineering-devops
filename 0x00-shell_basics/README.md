@@ -5,12 +5,14 @@ Display the contents list of your current directory.
 Task 2.
 script that changes the working directory to the user’s home directory.
 Task 3.
-Display current directory contents in a long format
+Display current directory contents in a long format.
 Task 4.
-Display current directory contents, including hidden files
+Display current directory contents, including hidden files.
 Task 5.
 Display current directory contents. same as the task 4.
 Task 6. 
-How to create a directory
+How to create a dir.ectory
 Task 7.
-how to move a file
+how to move a file.
+Task 8.
+how to remove a file.

@@ -23,4 +23,6 @@ Write a script that sets the mode of the file file1 the same as file2 mode.
 Task 11.
 script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 Task 12.
-script that creates a directory called file3 with permissions 751 in the working directory.   
+script that creates a directory called filei3 with permissions 751 in the working directory.
+Task 13. 
+script that changes the group owner to file4 for the file file1   

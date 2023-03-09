@@ -17,4 +17,6 @@ script that adds execution permission to the owner, the group owner and the othe
 Task 8.
 script that add all the permisions for others and none for the the owner and group
 Task 9.
-script that sets the mode of the file to this -rwxr-x-wx   
+script that sets the mode of the file to this -rwxr-x-wx
+Task 10.
+Write a script that sets the mode of the file file1 the same as file2 mode.   

@@ -15,4 +15,6 @@ script that adds execute permission to the owner and the group owner, and read p
 Task 7.
 script that adds execution permission to the owner, the group owner and the other users
 Task 8.
-script that add all the permisions for others and none for the the owner and group   
+script that add all the permisions for others and none for the the owner and group
+Task 9.
+script that sets the mode of the file to this -rwxr-x-wx   

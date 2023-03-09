@@ -29,4 +29,6 @@ script that changes the group owner to file4 for the file file1
 Task 14.
 script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 Task 15.
-Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.   
+Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
+Task 16.
+script that changes the owner of the file hello to betty only if it is owned by the user guillaume.   

@@ -21,4 +21,6 @@ script that sets the mode of the file to this -rwxr-x-wx
 Task 10.
 Write a script that sets the mode of the file file1 the same as file2 mode.
 Task 11.
-script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.   
+script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+Task 12.
+script that creates a directory called file3 with permissions 751 in the working directory.   

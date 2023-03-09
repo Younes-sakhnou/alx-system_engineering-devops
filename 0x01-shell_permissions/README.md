@@ -27,4 +27,6 @@ script that creates a directory called filei3 with permissions 751 in the workin
 Task 13. 
 script that changes the group owner to file4 for the file file1
 Task 14.
-script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.   
+script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+Task 15.
+Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.   

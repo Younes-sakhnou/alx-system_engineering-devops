@@ -25,4 +25,6 @@ script that adds execute permission to all subdirectories of the current directo
 Task 12.
 script that creates a directory called filei3 with permissions 751 in the working directory.
 Task 13. 
-script that changes the group owner to file4 for the file file1   
+script that changes the group owner to file4 for the file file1
+Task 14.
+script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.   

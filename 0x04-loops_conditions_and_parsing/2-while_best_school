@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# script that prints Best school 10 times using the until loop.
+
+message="Best School"
+
+count=0
+
+while [ $count -lt 10 ]; do
+    echo "$message"
+    ((count++))
+done
